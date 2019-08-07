@@ -124,53 +124,47 @@ Students should at all times be respectful of fellow students, the professor or 
 
 If you have a documented disability that requires academic accommodations, please see me as soon as possible during scheduled office hours. In order to receive accommodations in this course, you must provide me with a Letter of Accommodation from the Disability Resource Center (725 Rose Street, Suite 407 Multidisciplinary Science Building, 8AM to 4:30PM, 859-257-2754, email address: jkarnes@email.uky.edu) for coordination of campus disability services available to students with disabilities.
 
-## VII. Schedule
+## VIII. Schedule
 
 *Subject to change.*
 
 | Week | Wednesday |
 | :------- | :--------------:        |
 | 1:<br>Aug. 28 | CLASS WILL NOT MEET |
-| 2:<br>Sep. 4 | Course introduction/setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
-| 3:<br>Sep. 10 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
-| 4:<br>Sep. 17 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
-| 5:<br>Sep. 24 | Seminar will not meet. | - - - |
-| 6:<br>Oct. 1 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
-| 7:<br>Oct. 8 | Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*The End of Capitalism (As We Knew It)* (1996) |
-| 8:<br>Oct. 15 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
-| 9:<br>Oct. 22 | Fall Recess | - - - |
-| 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br>Border Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
-| 11:<br>Nov. 5 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
-| 12:<br>Nov. 12 | **Final Paper Abstract Due**<br>Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
-| 13:<br>Nov. 19 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
-| 14:<br>Nov. 26 | Seminar will not meet. | - - - |
-| 15:<br>Dec. 3 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
-| 16:<br>Dec. 10 | **Reaction Paper 2 Due**<br>Thing Geographies | Derek McCormack, <br>*Atmospheric Things* (2018) |
+| 2:<br>Sep. 4 | Course introduction / setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
+| 3:<br>Sep. 11 | Read Schuurman 2009<br><br>Syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
+| 4:<br>Sep. 18 | CLASS WILL NOT MEET<br><br>Schedule / complete course observations. |
+| 5:<br>Sep. 25 | Read Roberts 2000<br><br>Lesson planning<br>20-minute rule<br>*Activity:* Draft a Lesson Plan |
+| 6:<br>Oct. 2 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
+| 7:<br>Oct. 9 | Read Curran & Roberts 2001<br><br>Style and performance<br>Intro/outro music<br>*Activity:* Practice Lesson Plan Delivery |
+| 8:<br>Oct. 16 | Read Harris 2005<br><br>Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
+| 9:<br>Oct. 23 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy |
+| 10:<br>Oct. 30 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
+| 11:<br>Nov. 6 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security<br>*Activity:* TBD |
+| 12:<br>Nov. 13 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 13:<br>Nov. 20 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* TBD<br><br>**Turn in Report 2** |
+| 14:<br>Nov. 27 | CLASS WILL NOT MEET<br><br>Thanksgiving Recess |
+| 15:<br>Dec. 4 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
+| 16:<br>Dec. 11 | **Turn in Teaching Philosophy** |
 
-**Final Paper Due: Wednesday, Dec. 18th, 5pm on Canvas**
+## IX. References
 
-## VIII. References
+Curran, Mary, and Susan M. Roberts. 2001. “Dilemmas of Difference: Teaching the 'Non-West' Critically.” *International Research in Geographical and Environmental Education* no. 10 (2):179-183.
 
-Barnes, Trevor J., and Eric S. Sheppard, eds. 2019. *Spatial Histories of Radical Geography: North America and beyond*. Hoboken, NJ: Wiley.
+Dowling, Robyn. 2008. “Geographies of identity: labouring in the 'neoliberal' university.” *Progress in Human Geography* no. 32 (6):812-820.
 
-Gibson-Graham, J. K. 2006 (1996). The End of Capitalism (As We Knew It): A feminist critique of political economy. Minneapolis: University of Minnesota Press.
+Elwood, Sarah, and Matthew W. Wilson. 2017. Critical GIS pedagogies beyond ‘Week 10: Ethics’. *International Journal of Geographical Information Science* no. 31 (10): 2098-2116.
 
-Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, surplus, crisis, and opposition in globalizing California*. Berkeley: University of California Press.
+Harris, Richard. 2005. “Testing Times: Traditional Examination and Asynchronous Learning.” *Journal of Geography in Higher Education* no. 29 (1):101-114.
 
-Harvey, David. 1989. *The Condition of Postmodernity: An enquiry into the origins of cultural change*. Cambridge, Mass., USA: Blackwell.
+Johnston, R.J., and J.D. Sidaway. 2004. “The nature of an academic discipline.” In *Geography & geographers: Anglo-American human geography since 1945.* 6th ed. New York: Oxford University Press. pp. 1-39.
 
-Kitchin, Rob, and Martin Dodge. 2011. *Code/space: Software and everyday life*. Cambridge, Mass.: MIT Press.
+Kaserman, Bonnie, and Matthew W. Wilson. 2009. “On not wanting it to count: Reading together as resistance.” *Area* no. 41 (1):26-33.
 
-Massey, Doreen. 2005. *For Space*. London: SAGE.
+Roberts, Susan. 2000. “Realizing critical geographies of the university.” *Antipode* no. 32 (3):230-244.
 
-McCormack, Derek P. 2018. *Atmospheric Things: On the allure of elemental envelopment*. Durham: Duke University Press.
+Schuurman, Nadine. 2009. “Work, life, and creativity among academic geographers.” *Progress in Human Geography* no. 33 (3):307-312.
 
-McKittrick, Katherine. 2006. *Demonic Grounds: Black women and the cartographies of struggle*. Minneapolis: University of Minnesota Press.
+Schwendeman, Joseph R. 1936. “Human Geography for the Senior High School.” *Journal of Geography* no. 35:111-117.
 
-Rose, Gillian. 1993. *Feminism and Geography: The limits of geographical knowledge*. Minneapolis: University of Minnesota Press.
-
-Schulten, Susan. 2001. *The Geographical Imagination in America, 1880-1950*. Chicago: University of Chicago Press.
-
-Smith, Neil. 1984. *Uneven Development: Nature, capital, and the production of space*. New York, NY: Blackwell.
-
-Wright, Melissa W. 2006. *Disposable Women and Other Myths of Global Capitalism*. New York: Routledge.
+Tufte, Edward R. 2003. *The cognitive style of PowerPoint*. Cheshire, CT: Graphics Press.
