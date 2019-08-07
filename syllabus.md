@@ -1,5 +1,5 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2019
-Lectures: T 2-4:30pm, Classroom Building 305
+# Geography 741:<br>Teaching Practicum<br>Fall 2019
+Lectures: W 12-12:50pm, Classroom Building 843
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -9,67 +9,65 @@ Lectures: T 2-4:30pm, Classroom Building 305
 
 ## I. Course Description
 
-Contemporary geographic concepts and theories are examined with emphasis on concepts within human geography.
+This seminar provides an introduction to teaching with particular focus on pedagogical issues in geography. At the completion of this course, students will have a background sufficient to enable them to assume full responsibility for university and college-level courses.
 
-## II. Learning Objectives
+## II. Course Goals and Objectives
 
-This course is designed to operate in tension with a disciplinary priority on *the history* of geographic thought. As such, weekly discussions will center on a single book, as an access point into the consistencies and contradictions in contemporary geographic debate. This course is designed to help students:
-* Engage in discussions about geographic scholarship,
-* Trace geographic thought within recent geographic studies,
-* Write critical and informed analyses of entire texts, and
-* Practice independent research in order to situate geographic ideas.
+By placing teaching practices directly under scrutiny, this course shall:
+* Trace recent socio-technical developments in the university which impact the classroom;
+* Explore a variety of teaching techniques and technologies; and
+* Create and refine best practices in the classroom that enroll an articulated teaching philosophy.
 
-## III. Format
+## III. Student Learning Outcomes
 
-This course will be composed entirely of seminar discussions.
+By the completion of this practicum, students shall be able to articulate their own vision for teaching while demonstrating techniques that enable that vision, while situating this philosophy in the context of changes in higher education. More specifically, students will:
+* Observe a lower-division and upper-division undergraduate classroom;
+* Design lesson plans, visual materials, and delivery techniques that enhance learning;
+* Situate the contemporary classroom within broader debates in higher education; and
+* Compose a teaching philosophy; and
+* Evaluate the teaching practices of others, constructively.
 
-## IV. Required Texts
+## IV. Format
 
-There are 12 required books for this course. Please plan ahead. Contact the instructor if you have difficulty accessing any book.
+This course will be composed primarily of discussions and in-class activities. Students will also be required to schedule, attend, evaluate, and report on one lower-division and one upper-division undergraduate class session during the term.
 
-## V. Assignments, Activities, and Grading
+## V. Required Texts
+
+There will be required texts for some seminar discussions. Students will be responsible for gaining access to these texts from UK Libraries. Consult the course calendar below for a reading schedule (subject to change). You are attending a research 1 university, taking classes with people who do original research. As such, you may have the opportunity to read journal articles and book chapters published by your professors. Professors are not paid royalties for these publications, but they are how information is disseminated for the academic community.
+
+## VI. Assignments, Activities, and Grading
 
 ### Assessment overview.
 
-Students will be assessed in this course using a variety of methods. Participation in and preparations for seminar are fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 100 points:
-* Class participation and preparedness (40 points)
-* Reaction paper 1 (15 points)
-* Reaction paper 2 (15 points)
-* Final paper (30 points)
+Students will be assessed in this practicum, for a total of 100 points:
+* Report 1 (20 points)
+* Report 2 (20 points)
+* Discussions and Exercises (30 points)
+* Teaching Philosophy (30 points)
 
 Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-79%; D=60-69%; E=less than 60%. Grades for all assignments will be available via the University of Kentucky Canvas system (http://uk.instructure.com).
 
-### Class participation and preparedness.
+### Reports.
 
-Each week, students will be asked to volunteer to lead our discussions, and these students will coordinate their plans with the instructor. We will use the Canvas discussion board to share questions and resources. Schedule extended time to read the weekly assigned books. Prepare your contributions to our seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions. This is a rare commons that marks the beginning of your graduate study. Therefore, **everyone should contribute to seminar discussions**. If you find this to be difficult, please schedule time to speak with the instructor.
+Two reports will be required: one based on evaluation of a lower-division undergraduate course and one based on evaluation of an upper-division undergraduate course. Courses must be in Geography. Students are required to schedule the observation with the primary instructor (cannot be a graduate student instructor). Reports must be no more than 2-pages double-spaced, addressing (1) techniques and technologies, (2) style and performance, (3) engagement and learning.
 
-### Reaction papers.
+### Discussions and exercises.
 
-There are two reaction papers. These papers should be around five pages, double-spaced, and focus on a single book. Each paper should address the following questions:
-1. What is the argument of the book? (How might you summarize the book? How might this book relate to other readings in previous weeks?)
-2. What evidence is provided to support the argument? (How is the argument constructed? What problem does the book seek to address?)
-3. What are the limits to the argument?
-4. What are the strengths of the argument?
-5. What is the significance of this book (as a book)?
+Each scheduled meeting will be composed of discussions and exercises. The exact format will vary from week to week. Students are required to attend, to gain credit for these activities.
 
-### Final paper.
+### Teaching philosophy.
 
-The final paper must be submitted by the scheduled due date for full-credit. The paper should be around 15 pages (no more than 20 pages), double-spaced, and examine a single book from the seminar in greater detail, using additional, supplementary reading. A 250-word abstract will be due in advance that will be shared with the entire class.
+A teaching philosophy is a document that outlines a vision of teaching and learning. After reviewing and evaluating examples of teaching philosophies, students will iteratively produce their own teaching philosophy. The teaching philosophy must be no more than 4-pages double-spaced.
 
-## VI. Important Notices
+## VII. Important Notices
 
 ### Prepare for this course.
 
-Review the course syllabus carefully, paying special attention to due dates and assignment instructions. If you have questions about course expectations as overviewed by this syllabus, please contact the instructor as soon as possible.
+Review the course syllabus carefully, paying special attention to due dates and assignment instructions. If you have questions about course expectations as overviewed by this syllabus, please contact me as soon as possible.
 
 ### Attend class.
 
-Attendance is not taken nor required, however, note that:
-1. the majority of your grade depends on your preparation for, and engagement in, seminar;
-2. your success in pushing your disciplinary knowledge largely depends on the effort you apply to supplement the assigned readings with further reading;
-3. in the event of an absence, you should consult the syllabus and your peers regarding discussions you have missed.
-
-Students need to notify the professor of absences prior to class in writing (or within one week after the absence). S.R. 5.2.4.2 defines the following as acceptable reasons for excused absences: (a) serious illness, (b) illness or death of family member, (c) University-related trips, (d) major religious holidays, and (e) other circumstances found to fit “reasonable cause for nonattendance” by the professor.
+There are many in-class activities that will require your attendance. Note: Students need to notify the professor of absences prior to class in writing (or within one week after the absence). S.R. 5.2.4.2 defines the following as acceptable reasons for excused absences: (a) serious illness, (b) illness or death of family member, (c) University-related trips, (d) major religious holidays, and (e) other circumstances found to fit “reasonable cause for nonattendance” by the professor.
 
 Students anticipating an absence for a major religious holiday are responsible for notifying the instructor in writing of anticipated absences due to their observance of such holidays no later than the last day in the semester to add a class. Information regarding dates of major religious holidays may be obtained through the religious liaison, Mr. Jake Karnes (859-257-2754). Students are expected to withdraw from the class if more than 20% of the classes scheduled for the semester are missed (excused or unexcused) per university policy.
 
@@ -77,11 +75,11 @@ Students may be asked to verify their absences in order for them to be considere
 
 ### Be in contact.
 
-You are responsible for checking your UKY email account; the class listserv is what will be used to send communications outside class. Email is the best way to contact the instructor (place ‘GEO702’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
+You are responsible for checking your UKY email account; the class listserv is what I will use to send communications outside class. Email is the best way to contact me (place ‘GEO741’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. I will not necessarily respond to emails over the weekends.
 
 ### Be a resource for others.
 
-Students are strongly encouraged to exchange contact information with classmates, in order to facilitate the objectives of this seminar.
+I strongly encourage you to exchange contact information with classmates, in order to retrieve notes and information that you may have missed.
 
 ### Ask before recording.
 
@@ -128,12 +126,12 @@ If you have a documented disability that requires academic accommodations, pleas
 
 ## VII. Schedule
 
-*Subject to change. Page assignments will be confirmed a week prior to the scheduled discussion.*
+*Subject to change.*
 
-| Week | Topic | Reading |
-| :------- | :--------------:        | :--------------:        |
-| 1:<br>Aug. 27 | Introductions | - - - |
-| 2:<br>Sep. 3 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
+| Week | Wednesday |
+| :------- | :--------------:        |
+| 1:<br>Aug. 28 | CLASS WILL NOT MEET |
+| 2:<br>Sep. 4 | Course introduction/setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
 | 3:<br>Sep. 10 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
 | 4:<br>Sep. 17 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
 | 5:<br>Sep. 24 | Seminar will not meet. | - - - |
