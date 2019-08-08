@@ -142,7 +142,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | 10:<br>Oct. 30 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
 | 11:<br>Nov. 6 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security<br>*Activity:* TBD |
 | 12:<br>Nov. 13 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
-| 13:<br>Nov. 20 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* TBD<br><br>**Turn in Report 2** |
+| 13:<br>Nov. 20 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit with Associate Provost Sue Roberts<br><br>**Turn in Report 2** |
 | 14:<br>Nov. 27 | CLASS WILL NOT MEET<br><br>Thanksgiving Recess |
 | 15:<br>Dec. 4 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
 | 16:<br>Dec. 11 | **Turn in Teaching Philosophy** |
