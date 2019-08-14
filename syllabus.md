@@ -140,7 +140,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | 8:<br>Oct. 16 | Read Harris 2005<br><br>Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
 | 9:<br>Oct. 23 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy |
 | 10:<br>Oct. 30 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
-| 11:<br>Nov. 6 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security<br>*Activity:* TBD |
+| 11:<br>Nov. 6 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security<br>*Activity:* Tour of UKPD with Capt. Bill Webb |
 | 12:<br>Nov. 13 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
 | 13:<br>Nov. 20 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit with Associate Provost Sue Roberts<br><br>**Turn in Report 2** |
 | 14:<br>Nov. 27 | CLASS WILL NOT MEET<br><br>Thanksgiving Recess |
