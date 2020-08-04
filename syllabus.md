@@ -1,5 +1,5 @@
-# Geography 741:<br>Teaching Practicum<br>Fall 2019
-Lectures: W 12-12:50pm, Classroom Building 843
+# Geography 741:<br>Teaching Practicum<br>Fall 2020
+Lectures: W 12-12:50pm, via Zoom
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -29,7 +29,7 @@ By the completion of this practicum, students shall be able to articulate their 
 
 ## IV. Format
 
-This course will be composed primarily of discussions and in-class activities. Students will also be required to schedule, attend, evaluate, and report on one lower-division and one upper-division undergraduate class session during the term.
+This course will be composed primarily of discussions and in-class activities. Students will also be required to schedule, attend, evaluate, and report on one lower-division and one upper-division undergraduate class session during the term. Unless otherwise announced, class meetings will occur via Zoom.
 
 ## V. Required Texts
 
@@ -73,6 +73,14 @@ Students anticipating an absence for a major religious holiday are responsible f
 
 Students may be asked to verify their absences in order for them to be considered excused. Senate Rule 5.2.4.2 states that faculty have the right to request “appropriate verification” when students claim an excused absence because of illness or death in the family. Appropriate notification of absences due to university-related trips is required prior to the absence.
 
+### Wear a mask and maintain physical distance.
+
+In accordance with University guidelines, students must wear UK-approved face coverings in the classroom and academic buildings (e.g., faculty offices, laboratories, libraries, performance/design studios, and common study areas where students might congregate). If UK-approved face coverings are not worn over the nose and mouth, students will be asked to leave the classroom.
+
+Students should complete their daily online wellness screening before accessing university facilities and arriving to class. Students should not move chairs or barriers in classrooms and should socially distance at all times, leaving a six (6) foot radius from other people. Masks and hand sanitizer can be found at entrances to this building if needed. Students should leave enough space when entering and exiting a room. Students should not crowd doorways at the beginning or end of class.
+
+The instructor may choose to remove a mask when pedagogically necessary at the front of the classroom and behind a clear barrier. The instructor's mask will be replaced when it is no longer necessary to have it removed, or when the class meeting is complete.
+
 ### Be in contact.
 
 You are responsible for checking your UKY email account; the class listserv is what I will use to send communications outside class. Email is the best way to contact me (place ‘GEO741’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. I will not necessarily respond to emails over the weekends.
@@ -81,9 +89,17 @@ You are responsible for checking your UKY email account; the class listserv is w
 
 I strongly encourage you to exchange contact information with classmates, in order to retrieve notes and information that you may have missed.
 
-### Ask before recording.
+### Get permission before recording.
 
-Video and audio recordings are not permitted during our class meetings unless the student has received prior permission from the instructors. If permission is granted, recording of other students is prohibited. Any distribution of recordings is also probhibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor. All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced, sold, or used for any purpose other than educational work in this class without prior permission from the instructor.
+Meetings of this course may be recorded. All video and audio recordings of lecturers and class meetings, provided by the instructors, are for educational use by students in this class only. They are available only through the Canvas shell for this course and are not to be copied, shared, or redistributed.
+
+The University of Kentucky Student Code of Conduct defines Invasion of Privacy as using electronic or other devices to make a photographic, audio, or video record of any person without their prior knowledge or consent when such a recording is likely to cause injury or distress. As addressed in the Student Code of Conduct, students are expected to follow appropriate university policies and maintain the security of linkblue accounts used to access recorded class materials. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments.
+
+If the instructor or a University of Kentucky office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. In anticipation of such cases, students may be asked to complete an “authorization of use” form by a faculty member.
+
+Video and audio recordings by students are not permitted during the class unless the student has received prior permission from the instructor. Any sharing, distribution, and or uploading of these recordings outside of the parameters of the class is prohibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor.
+
+All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced or sold without prior permission from the instructors. A student may use the material for reasonable educational and professional purposes extending beyond this class, such as studying for a comprehensive or qualifying examination in a degree program, preparing for a professional or certification examination, or to assist in fulfilling responsibilities at a job or internship.
 
 ### Get help.
 
@@ -130,22 +146,23 @@ If you have a documented disability that requires academic accommodations, pleas
 
 | Week | Wednesday |
 | :------- | :--------------:        |
-| 1:<br>Aug. 28 | CLASS WILL NOT MEET |
-| 2:<br>Sep. 4 | Course introduction / setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
-| 3:<br>Sep. 11 | Read Schuurman 2009<br><br>Syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
-| 4:<br>Sep. 18 | CLASS WILL NOT MEET<br><br>Schedule / complete course observations. |
-| 5:<br>Sep. 25 | Read Roberts 2000<br><br>Lesson planning<br>20-minute rule<br>*Activity:* Draft a Lesson Plan |
-| 6:<br>Oct. 2 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
-| 7:<br>Oct. 9 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
-| 8:<br>Oct. 16 | Read Harris 2005<br><br>Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
-| 9:<br>Oct. 23 | Read Curran & Roberts 2001<br><br>Style and performance<br>Intro/outro music<br>*Activity:* Practice Lesson Plan Delivery |
-| 10:<br>Oct. 30 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
-| 11:<br>Nov. 6 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security<br>*Activity:* Tour of UKPD with Capt. Bill Webb |
-| 12:<br>Nov. 13 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit with Associate Provost Sue Roberts |
-| 13:<br>Nov. 20 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy<br><br>**Turn in Report 2** |
-| 14:<br>Nov. 27 | CLASS WILL NOT MEET<br><br>Thanksgiving Recess |
-| 15:<br>Dec. 4 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
-| 16:<br>Dec. 11 | **Turn in Teaching Philosophy** |
+| 1:<br>Aug. 19 | CLASS WILL NOT MEET |
+| 2:<br>Aug. 26 | Course introduction / setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
+| 3:<br>Sep. 2 | Read Schuurman 2009<br><br>Syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
+| 4:<br>Sep. 9 | CLASS WILL NOT MEET<br><br>Schedule / complete course observations. |
+| 5:<br>Sep. 16 | Read Roberts 2000<br><br>Lesson planning<br>20-minute rule<br>*Activity:* Draft a Lesson Plan |
+| 6:<br>Sep. 23 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 7:<br>Sep. 30 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
+| 8:<br>Oct. 7 | Read Harris 2005<br><br>Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
+| 9:<br>Oct. 14 | Read Curran & Roberts 2001<br><br>Style and performance<br>Intro/outro music<br>*Activity:* Practice Lesson Plan Delivery |
+| 10:<br>Oct. 21 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
+| 11:<br>Oct. 28 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security<br>*Activity:* Tour of UKPD with Capt. Bill Webb |
+| 12:<br>Nov. 4 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit with Associate Provost Sue Roberts |
+| 13:<br>Nov. 11 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy<br><br>**Turn in Report 2** |
+| 14:<br>Nov. 18 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
+| 15:<br>Nov. 25 | CLASS WILL NOT MEET<br><br>Thanksgiving Recess |
+
+**Teaching Philosophy Due: Wednesday, Dec. 2nd, 5pm on Canvas**
 
 ## IX. References
 
