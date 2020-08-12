@@ -109,6 +109,8 @@ If you are having difficulty with any course material, please contact the instru
 * [Map Collections](http://libguides.uky.edu/maps), Science Library in King Library 410C
 * [Stress Management Workshops](http://www.uky.edu/counselingcenter/student-services) in Frazee Hall
 
+Resources exist across campus to assist students with academic success, wellness, finances, and belonging. Learn more at https://www.uky.edu/basicneeds/home.
+
 ### Meet deadlines.
 
 Meeting deadlines is an important professional practice. Consult the course schedule, below, for the due dates of the course assignments. A 10-percent deduction will be applied to the final score of your assignment for submissions after the deadline on the same calendar day, with an additional 10-percent deduction for each additional calendar day the assignment is late. If the assignment is not delivered by the next class meeting, the assignment will not be accepted.
