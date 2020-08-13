@@ -108,6 +108,7 @@ If you are having difficulty with any course material, please contact the instru
 * [The University Writing Center](https://uky.mywconline.com)
 * [Map Collections](http://libguides.uky.edu/maps), Science Library in King Library 410C
 * [Stress Management Workshops](http://www.uky.edu/counselingcenter/student-services) in Frazee Hall
+* Assistance with technology, https://learnanywhere.uky.edu/tech-help
 
 Resources exist across campus to assist students with academic success, wellness, finances, and belonging. Learn more at https://www.uky.edu/basicneeds/home.
 
