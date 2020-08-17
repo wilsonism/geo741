@@ -137,7 +137,7 @@ Students should at all times be respectful of fellow students, the professor or 
 * Show up on time. Late arrivals (and unnecessary) early departures are rude and disruptive.
 * Put away your reading material (other than materials necessary for the lecture/course).
 * Talking and whispering during class is disrespectful to the professor and fellow students and makes it more difficult for those who want to learn to do so.
-* Be attentive to and respectful of other students’ contributions to class discussions. Discussion must not include attacks of a personal nature, including denigrating another on the basis of skin color, sex, religion, sexual orientation, age, national/regional origin or other such irrelevant factors.
+* Be attentive to and respectful of other students’ contributions to class discussions. Discussion must not include attacks of a personal nature, including denigrating another on the basis of skin color, sex, religion, sexual orientation, age, national/regional origin or other such irrelevant factors. Racist comments and hate speech (including on personal property, clothing, and face masks) are counterproductive to this course’s pedagogy, and it will not be tolerated.
 
 ### For students with special needs:
 
