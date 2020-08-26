@@ -157,10 +157,10 @@ If you have a documented disability that requires academic accommodations, pleas
 | 6:<br>Sep. 23 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
 | 7:<br>Sep. 30 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
 | 8:<br>Oct. 7 | Read Harris 2005<br><br>Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
-| 9:<br>Oct. 14 | Read Curran & Roberts 2001<br><br>Style and performance<br>Intro/outro music<br>*Activity:* Practice Lesson Plan Delivery |
+| 9:<br>Oct. 14 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit with Associate Provost Sue Roberts |
 | 10:<br>Oct. 21 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
 | 11:<br>Oct. 28 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security<br>*Activity:* Tour of UKPD with Capt. Bill Webb |
-| 12:<br>Nov. 4 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit with Associate Provost Sue Roberts |
+| 12:<br>Nov. 4 | Read Curran & Roberts 2001<br><br>Style and performance<br>Intro/outro music<br>*Activity:* Practice Lesson Plan Delivery |
 | 13:<br>Nov. 11 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy<br><br>**Turn in Report 2** |
 | 14:<br>Nov. 18 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
 | 15:<br>Nov. 25 | CLASS WILL NOT MEET<br><br>Thanksgiving Recess |
