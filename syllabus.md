@@ -1,5 +1,5 @@
-# Geography 741:<br>Teaching Practicum<br>Fall 2020
-Lectures: W 12-12:50pm, via Zoom
+# Geography 741:<br>Teaching Practicum<br>Fall 2021 DRAFT
+Lectures: M 12-12:50pm, Classroom Building 305
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -147,25 +147,26 @@ If you have a documented disability that requires academic accommodations, pleas
 
 *Subject to change.*
 
-| Week | Wednesday |
+| Week | Monday |
 | :------- | :--------------:        |
-| 1:<br>Aug. 19 | CLASS WILL NOT MEET |
-| 2:<br>Aug. 26 | Course introduction / setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
-| 3:<br>Sep. 2 | Read Schuurman 2009<br><br>Syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
-| 4:<br>Sep. 9 | CLASS WILL NOT MEET<br><br>Schedule / complete course observations. |
-| 5:<br>Sep. 16 | Read Roberts 2000<br><br>Lesson planning<br>20-minute rule<br>*Activity:* Draft a Lesson Plan |
-| 6:<br>Sep. 23 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
-| 7:<br>Sep. 30 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
-| 8:<br>Oct. 7 | Read Harris 2005<br><br>Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
-| 9:<br>Oct. 14 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit with Associate Provost Sue Roberts |
-| 10:<br>Oct. 21 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
-| 11:<br>Oct. 28 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security<br>*Activity:* Tour of UKPD with Capt. Bill Webb |
-| 12:<br>Nov. 4 | Read Curran & Roberts 2001<br><br>Style and performance<br>Intro/outro music<br>*Activity:* Practice Lesson Plan Delivery |
-| 13:<br>Nov. 11 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy<br><br>**Turn in Report 2** |
-| 14:<br>Nov. 18 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
-| 15:<br>Nov. 25 | CLASS WILL NOT MEET<br><br>Thanksgiving Recess |
+| 1:<br>Aug. 23 | CLASS WILL NOT MEET |
+| 2:<br>Aug. 30 | Course introduction / setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
+| 3:<br>Sep. 6 | Read Schuurman 2009<br><br>Syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
+| 4:<br>Sep. 13 | CLASS WILL NOT MEET<br><br>Schedule / complete course observations. |
+| 5:<br>Sep. 20 | Read Roberts 2000<br><br>Lesson planning<br>20-minute rule<br>*Activity:* Draft a Lesson Plan |
+| 6:<br>Sep. 27 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 7:<br>Oct. 4 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
+| 8:<br>Oct. 11 | Read Harris 2005<br><br>Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
+| 9:<br>Oct. 18 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit with Associate Provost Sue Roberts |
+| 10:<br>Oct. 25 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
+| 11:<br>Nov. 1 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security<br>*Activity:* Tour of UKPD with Capt. Bill Webb |
+| 12:<br>Nov. 8 | Read Curran & Roberts 2001<br><br>Style and performance<br>Intro/outro music<br>*Activity:* Practice Lesson Plan Delivery |
+| 13:<br>Nov. 15 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy<br><br>**Turn in Report 2** |
+| 14:<br>Nov. 22 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
+| 15:<br>Nov. 29 | CLASS WILL NOT MEET<br><br>Thanksgiving Recess |
+| 16:<br>Dec. 6 | CLASS WILL NOT MEET<br><br>Thanksgiving Recess |
 
-**Teaching Philosophy Due: Wednesday, Dec. 2nd, 5pm on Canvas**
+**Teaching Philosophy Due: Monday, Dec. 13th, 5pm on Canvas**
 
 ## IX. References
 
