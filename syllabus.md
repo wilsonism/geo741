@@ -1,11 +1,11 @@
-# Geography 741:<br>Teaching Practicum<br>Fall 2021
-Lectures: M 12-12:50pm, Classroom Building 305
+# Geography 741:<br>Teaching Practicum<br>Fall 2023
+Lectures: T 1-1:50pm, Classroom Building 305
 
-**[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
+**[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
 *Twitter:* [@wilsonism](https://twitter.com/wilsonism)<br>
-*Office:* Patterson Office Tower (POT) 861<br>
-*Office Hours:* by appointment<br>
+*Office:* Patterson Office Tower (POT) 815<br>
+*Office Hours:* email for an appointment<br>
 
 ## I. Course Description
 
@@ -29,7 +29,7 @@ By the completion of this practicum, students shall be able to articulate their 
 
 ## IV. Format
 
-This course will be composed primarily of discussions and in-class activities. Students will also be required to schedule, attend, evaluate, and report on one lower-division and one upper-division undergraduate class session during the term. Unless otherwise announced, class meetings will occur via Zoom.
+This course will be composed primarily of discussions and in-class activities. Students will also be required to schedule, attend, evaluate, and report on one lower-division and one upper-division undergraduate class session during the term.
 
 ## V. Required Texts
 
@@ -57,7 +57,7 @@ Each scheduled meeting will be composed of discussions and exercises. The exact 
 
 ### Teaching philosophy.
 
-A teaching philosophy is a document that outlines a vision of teaching and learning. After reviewing and evaluating examples of teaching philosophies, students will iteratively produce their own teaching philosophy. The teaching philosophy must be no more than 4-pages double-spaced.
+A teaching philosophy is a document that outlines a vision of teaching and learning. After reviewing and evaluating examples of teaching philosophies, students will iteratively produce their own teaching philosophy. The teaching philosophy must be no more than 3-pages double-spaced.
 
 ## VII. Important Notices
 
@@ -68,10 +68,6 @@ Review the course syllabus carefully, paying special attention to due dates and 
 ### Attend class.
 
 There are many in-class activities that will require your attendance.
-
-### Wear a mask.
-
-In accordance with University guidelines, students must wear UK-approved face coverings in the classroom and academic buildings (e.g., faculty offices, laboratories, libraries, performance/design studios, and common study areas where students might congregate). If UK-approved face coverings are not worn over the nose and mouth, students will be asked to leave the classroom.
 
 ### Be in contact.
 
@@ -134,22 +130,22 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 
 | Week | Monday |
 | :------- | :--------------:        |
-| 1:<br>Aug. 23 | CLASS WILL NOT MEET |
-| 2:<br>Aug. 30 | Course introduction / setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
-| 3:<br>Sep. 6 | LABOR DAY |
-| 4:<br>Sep. 13 | Read Schuurman 2009<br><br>Syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
-| 5:<br>Sep. 20 | Read Roberts 2000<br><br>Lesson planning<br>20-minute rule<br>*Activity:* Draft a Lesson Plan |
-| 6:<br>Sep. 27 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
-| 7:<br>Oct. 4 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
-| 8:<br>Oct. 11 | Read Harris 2005<br><br>Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
-| 9:<br>Oct. 18 | Read Dowling 2008<br><br>Difference and non-violent classrooms<br>Safety and security |
-| 10:<br>Oct. 25 | FALL BREAK |
-| 11:<br>Nov. 1 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
-| 12:<br>Nov. 8 | Read Johnston & Sidaway 2004<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit from Prof. Sue Roberts, Associate Provost |
-| 13:<br>Nov. 15 | Read Curran & Roberts 2001<br><br>Style and performance<br>Intro/outro music<br>*Activity:* Practice Lesson Plan Delivery |
-| 14:<br>Nov. 22 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy<br><br>**Turn in Report 2** |
-| 15:<br>Nov. 29 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
-| 16:<br>Dec. 6 | **Teaching Philosophy Due by 5pm on Canvas** |
+| 1:<br>Aug. 22 | Course introduction / setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
+| 2:<br>Aug. 29 | Read Schuurman 2009<br><br>Syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
+| 3:<br>Sep. 5 | Read Roberts 2000<br><br>Lesson planning<br>*Activity:* Draft a Lesson Plan |
+| 4:<br>Sep. 12 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 5:<br>Sep. 19 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
+| 6:<br>Sep. 26 | Read Stentiford & Koutsouris 2021<br><br>Inclusive learning environments |
+| 7:<br>Oct. 3 | Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
+| 8:<br>Oct. 10 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
+| 9:<br>Oct. 17 | Read Dowling 2008<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit from Prof. Sue Roberts, Associate Provost |
+| 10:<br>Oct. 24 | FALL BREAK |
+| 11:<br>Oct. 31 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 12:<br>Nov. 7 | Read Curran & Roberts 2001<br><br>Style and performance<br>*Activity:* Practice Lesson Plan Delivery |
+| 13:<br>Nov. 14 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy<br><br>**Turn in Report 2** |
+| 14:<br>Nov. 21 | NO CLASS<br>SEDAAG |
+| 15:<br>Nov. 28 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
+| 16:<br>Dec. 5 | **Teaching Philosophy Due by 5pm on Canvas** |
 
 ## IX. References
 
@@ -159,10 +155,6 @@ Dowling, Robyn. 2008. “Geographies of identity: labouring in the 'neoliberal' 
 
 Elwood, Sarah, and Matthew W. Wilson. 2017. Critical GIS pedagogies beyond ‘Week 10: Ethics’. *International Journal of Geographical Information Science* no. 31 (10): 2098-2116.
 
-Harris, Richard. 2005. “Testing Times: Traditional Examination and Asynchronous Learning.” *Journal of Geography in Higher Education* no. 29 (1):101-114.
-
-Johnston, R.J., and J.D. Sidaway. 2004. “The nature of an academic discipline.” In *Geography & geographers: Anglo-American human geography since 1945.* 6th ed. New York: Oxford University Press. pp. 1-39.
-
 Kaserman, Bonnie, and Matthew W. Wilson. 2009. “On not wanting it to count: Reading together as resistance.” *Area* no. 41 (1):26-33.
 
 Roberts, Susan. 2000. “Realizing critical geographies of the university.” *Antipode* no. 32 (3):230-244.
@@ -170,5 +162,7 @@ Roberts, Susan. 2000. “Realizing critical geographies of the university.” *A
 Schuurman, Nadine. 2009. “Work, life, and creativity among academic geographers.” *Progress in Human Geography* no. 33 (3):307-312.
 
 Schwendeman, Joseph R. 1936. “Human Geography for the Senior High School.” *Journal of Geography* no. 35:111-117.
+
+Stentiford, Lauren, and George Koutsouris. 2021. "What are inclusive pedagogies in higher education? A systematic scoping review." *Studies in Higher Education* 46 (11):2245-2261.
 
 Tufte, Edward R. 2003. *The cognitive style of PowerPoint*. Cheshire, CT: Graphics Press.
