@@ -135,7 +135,7 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 3:<br>Sep. 5 | Read Roberts 2000<br><br>Lesson planning<br>*Activity:* Draft a Lesson Plan |
 | 4:<br>Sep. 12 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
 | 5:<br>Sep. 19 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
-| 6:<br>Sep. 26 | Read Stentiford & Koutsouris 2021<br><br>Inclusive learning environments |
+| 6:<br>Sep. 26 | Read Fritzsche 2022<br><br>Inclusive learning environments |
 | 7:<br>Oct. 3 | Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
 | 8:<br>Oct. 10 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
 | 9:<br>Oct. 17 | Read Dowling 2008<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit from Prof. Sue Roberts, Associate Provost |
@@ -155,6 +155,8 @@ Dowling, Robyn. 2008. “Geographies of identity: labouring in the 'neoliberal' 
 
 Elwood, Sarah, and Matthew W. Wilson. 2017. Critical GIS pedagogies beyond ‘Week 10: Ethics’. *International Journal of Geographical Information Science* no. 31 (10): 2098-2116.
 
+Fritzsche, Lauren. 2022. "Integrating contemplative pedagogy and anti-oppressive pedagogy in geography higher education classrooms." *Journal of Geography in Higher Education* 46 (2):167-184.
+
 Kaserman, Bonnie, and Matthew W. Wilson. 2009. “On not wanting it to count: Reading together as resistance.” *Area* no. 41 (1):26-33.
 
 Roberts, Susan. 2000. “Realizing critical geographies of the university.” *Antipode* no. 32 (3):230-244.
@@ -162,7 +164,5 @@ Roberts, Susan. 2000. “Realizing critical geographies of the university.” *A
 Schuurman, Nadine. 2009. “Work, life, and creativity among academic geographers.” *Progress in Human Geography* no. 33 (3):307-312.
 
 Schwendeman, Joseph R. 1936. “Human Geography for the Senior High School.” *Journal of Geography* no. 35:111-117.
-
-Stentiford, Lauren, and George Koutsouris. 2021. "What are inclusive pedagogies in higher education? A systematic scoping review." *Studies in Higher Education* 46 (11):2245-2261.
 
 Tufte, Edward R. 2003. *The cognitive style of PowerPoint*. Cheshire, CT: Graphics Press.
