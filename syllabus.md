@@ -138,7 +138,7 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 6:<br>Sep. 26 | Read Fritzsche 2022<br><br>Inclusive learning environments |
 | 7:<br>Oct. 3 | Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
 | 8:<br>Oct. 10 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
-| 9:<br>Oct. 17 | Read Dowling 2008<br><br>Shifts in higher education<br>Neoliberalism and the university<br>*Activity:* Visit from Prof. Sue Roberts, Associate Provost |
+| 9:<br>Oct. 17 | Read Dowling 2008<br><br>Shifts in higher education<br>Neoliberalism and the university |
 | 10:<br>Oct. 24 | FALL BREAK |
 | 11:<br>Oct. 31 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
 | 12:<br>Nov. 7 | Read Curran & Roberts 2001<br><br>Style and performance<br>*Activity:* Practice Lesson Plan Delivery |
