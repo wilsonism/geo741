@@ -1,5 +1,5 @@
-# Geography 741:<br>Teaching Practicum<br>Fall 2023
-Lectures: T 1-1:50pm, Classroom Building 305
+# Geography 741-001:<br>Teaching Practicum<br>Fall 2024
+Lectures: Th 1-1:50pm, POT 843
 
 **[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -33,7 +33,7 @@ This course will be composed primarily of discussions and in-class activities. S
 
 ## V. Required Texts
 
-There will be required texts for some seminar discussions. Students will be responsible for gaining access to these texts from UK Libraries. Consult the course calendar below for a reading schedule (subject to change). You are attending a research 1 university, taking classes with people who do original research. As such, you may have the opportunity to read journal articles and book chapters published by your professors. Professors are not paid royalties for these publications, but they are how information is disseminated for the academic community.
+There will be some required texts for some seminar discussions. Students will be responsible for gaining access to these texts from UK Libraries. Consult the course calendar below for a reading schedule (subject to change). You are attending a research 1 university, taking classes with people who do original research. As such, you may have the opportunity to read journal articles and book chapters published by your professors. Professors are not paid royalties for these publications, but they are how information is disseminated for the academic community.
 
 ## VI. Assignments, Activities, and Grading
 
@@ -103,7 +103,7 @@ Meeting deadlines is an important professional practice. Consult the course sche
 
 ### Be honest.
 
-This course, if successful, will expose you to a variety of concepts and techniques. You are expected to draw upon these various ideas, but you must be transparent and honest about your use of these ideas. Please get help if you are uncertain about this expectation! Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students should familiarize themselves with policies regarding Academic Offenses (available at https://www.uky.edu/universitysenate/ao). **Please note:** Any assignment you turn in may be submitted to an electronic database to check for plagiarism.
+This course, if successful, will expose students to a variety of concepts and techniques. Students are expected to draw upon these various ideas, but they must be transparent and honest about their use of these ideas. Students should get help if they are uncertain about this expectation. Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students should familiarize themselves with definitions regarding plagiarism (available at [https://ombud.uky.edu/students/what-plagiarism](https://ombud.uky.edu/students/what-plagiarism)) and cheating (available at [https://ombud.uky.edu/students/what-cheating](https://ombud.uky.edu/students/what-cheating). Please note: Any assignment students turn in may be submitted to an electronic database to check for plagiarism.
 
 ### Be respectful.
 
@@ -122,16 +122,48 @@ We strive to rectify and change behavior that is inconsistent with our principle
 
 ### Familiarize yourself with campus-wide policies.
 
-To learn more about campus-wide policies on Excused Absences and Acceptable Excuses, Religious Observances, Verification of Absences, Make-Up Work, Excused Absences for Military Duties, Unexcused Absences, Prep Week and Reading Days, Accommodation Due to Disability, Non-Discrimination Statement and Title IX Information, please refer to Academic Policy Statements (available at [https://www.uky.edu/universitysenate/acadpolicy](https://www.uky.edu/universitysenate/acadpolicy)). Please contact the instructor with any questions regarding these policies.
+To learn more about campus-wide policies on Excused Absences and Acceptable Excuses, Religious Observances, Verification of Absences, Make-Up Work, Excused Absences for Military Duties, Unexcused Absences, Prep Week and Reading Days, Accommodation Due to Disability, Non-Discrimination Statement and Title IX Information, students should refer to Academic Policy Statements (available at [https://provost.uky.edu/proposals/guidance-course-proposals/standard-academic-policy-statements](https://provost.uky.edu/proposals/guidance-course-proposals/standard-academic-policy-statements)). Students should contact the instructor with any questions regarding these policies.
+
+### Review information regarding classroom emergency preparedness and response
+
+Nothing is more important than the safety and well-being of our campus community. While the University of Kentucky Police Department continues to enhance campus safety measures, it’s important to remember that everyone has a responsibility in keeping our community safe. To find more information visit [https://police.uky.edu/emergency-response-guide](Emergency Response Guide) created by the University of Kentucky Police Department.
+
+**Emergency Reporting & Action**
+*Reporting*: If there is an emergency, DIAL 911. To report suspicious activity or non-emergency situations, call the UK Police Department at 859-257-8573 or #UKPD from any mobile phone. If an emergency occurs in a classroom or residence hall with a red emergency button, press to quickly notify UKPD. Emergency responders will immediately be dispatched to your location.
+*Action*: During an emergency, you are responsible for your own safety. If an emergency occurs during class, your instructor will provide further direction based on university and department emergency plans.
+
+**Warning Systems**
+*UK Alert*: The university provides emergency notifications through UK Alert, which sends messages via email, text message, phone calls, building alarm systems, digital signage, social media and outdoor sirens. If you receive a UK Alert message during class, notify your instructor and classmates immediately. For more information, visit [https://police.uky.edu/get-notified/uk-alert](https://police.uky.edu/get-notified/uk-alert).
+*LiveSafe*: The university provides additional emergency preparedness information and safety tools through LiveSafe, a free mobile app for iOS and Android. You can report suspicious activity, message with UK Police and virtually escort your friends through the SafeWalk tool. For more information, visit [https://police.uky.edu/safety/livesafe](https://police.uky.edu/safety/livesafe).
+*Blue Emergency Towers*: Blue Emergency Notification Towers are strategically placed at over 50 locations across campus to provide outdoor alert tones and broadcast emergency messages with loud speakers. Each tower also features an emergency push button speaker phone that reaches UKPD and a camera mounted above the tower.
+For more information, visit [https://police.uky.edu/safety/blue-emergency-towers](https://police.uky.edu/safety/blue-emergency-towers).
+
+**Medical Emergency**
+If there is a medical emergency, dial 911 and do not act outside the scope of your medical training. After dialing 911, inform your instructor of the situation.
+
+**Evacuation**
+It is required to evacuate for a fire alarm or when university officials order us to do so. Evacuation routes are marked with illuminated exit signs throughout the building. Avoid using elevators during any evacuation.
+
+**Emergency Sheltering**
+*Storm Sheltering*: Report to the recommended shelter locations. Recommended shelter locations are marked throughout the building. If shelter locations are unavailable, protect yourself from lightning and flying debris by moving to an interior room or hallway on the building's lowest level. Avoid outside doors and windows and get under a sturdy table and use your arms to protect your head and neck.
+*Shelter-in-Place*: If a shelter-in-place order is issued, you will learn about this through UK Alert, the university’s emergency notification system. If you are inside, stay where you are unless the building you are in is affected. If the building is affected, and the fire alarm has been activated or directed by law enforcement, you should evacuate. If you are outdoors, proceed into the closest UK building or follow instructions from emergency personnel or alerts. It is ideal to shelter-in-place in an interior room with the fewest or no windows and no doors to the outside if
+possible. Shut all windows and close exterior doors. If a hazardous chemical release occurs outside the building, follow these same procedures.
+
+**Active Aggressor**
+In a situation where an aggressor is trying to attack you or others, follow three steps:
+1. Run: Attempt to get away from the attacker.
+2. Hide: If you cannot run, barricade yourself in a safe place. Turn your phone to silent and dim your brightness. If possible, use the LiveSafe App to message UK Police and alert them to your location. If you don’t have the app, dial 911. If you cannot speak, leave the line open and allow the dispatcher to listen.
+3. Fight: If you cannot run or hide, do whatever you need to do to stop the attacker.
+UK Police will communicate additional information through the UK Alert system during an active aggressor situation. Every UKY email automatically receives UK Alerts. You can also sign up in myUK to receive alerts via text and phone call.
 
 ## VIII. Schedule
 
 *Subject to change.*
 
-| Week | Monday |
+| Week | Thursday |
 | :------- | :--------------:        |
-| 1:<br>Aug. 22 | Course introduction / setup<br>Day 1 and modeling<br>*Activity:* Draft a Teaching Philosophy |
-| 2:<br>Aug. 29 | Read Schuurman 2009<br><br>Syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
+| 1:<br>Aug. 22 | CLASS WILL NOT MEET |
+| 2:<br>Aug. 29 | Read Schuurman 2009<br><br>Course introductions, syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
 | 3:<br>Sep. 5 | Read Roberts 2000<br><br>Lesson planning<br>*Activity:* Draft a Lesson Plan |
 | 4:<br>Sep. 12 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
 | 5:<br>Sep. 19 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
@@ -139,13 +171,13 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 7:<br>Oct. 3 | Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
 | 8:<br>Oct. 10 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
 | 9:<br>Oct. 17 | Read Dowling 2008<br><br>Shifts in higher education<br>Neoliberalism and the university |
-| 10:<br>Oct. 24 | FALL BREAK |
-| 11:<br>Oct. 31 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
-| 12:<br>Nov. 7 | Read Curran & Roberts 2001<br><br>Style and performance<br>*Activity:* Practice Lesson Plan Delivery |
-| 13:<br>Nov. 14 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a (2nd) Teaching Philosophy<br><br>**Turn in Report 2** |
-| 14:<br>Nov. 21 | NO CLASS<br>SEDAAG |
-| 15:<br>Nov. 28 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
-| 16:<br>Dec. 5 | **Teaching Philosophy Due by 5pm on Canvas** |
+| 10:<br>Oct. 24 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 11:<br>Oct. 31 | Read Curran & Roberts 2001<br><br>Style and performance<br>*Activity:* Practice Lesson Plan Delivery |
+| 12:<br>Nov. 7 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a Teaching Philosophy<br><br>**Turn in Report 2** |
+| 13:<br>Nov. 14 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
+| 14:<br>Nov. 21 | CLASS WILL NOT MEET<br><br>Revise Teaching Philosophies |
+| 15:<br>Nov. 28 | NO CLASS<br><br>Thanksgiving Holiday |
+| 16:<br>Dec. 5 | Practicum Wrap-up<br><br>**Teaching Philosophy Due by 5pm on Canvas** |
 
 ## IX. References
 
