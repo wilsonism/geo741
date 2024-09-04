@@ -163,7 +163,7 @@ UK Police will communicate additional information through the UK Alert system du
 | Week | Thursday |
 | :------- | :--------------:        |
 | 1:<br>Aug. 22 | CLASS WILL NOT MEET |
-| 2:<br>Aug. 29 | Read Schuurman 2009<br><br>Course introductions, syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
+| 2:<br>Aug. 29 | Course introductions, syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
 | 3:<br>Sep. 5 | Read Roberts 2000<br><br>Lesson planning<br>*Activity:* Draft a Lesson Plan |
 | 4:<br>Sep. 12 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
 | 5:<br>Sep. 19 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
@@ -192,8 +192,6 @@ Fritzsche, Lauren. 2022. "Integrating contemplative pedagogy and anti-oppressive
 Kaserman, Bonnie, and Matthew W. Wilson. 2009. “On not wanting it to count: Reading together as resistance.” *Area* no. 41 (1):26-33.
 
 Roberts, Susan. 2000. “Realizing critical geographies of the university.” *Antipode* no. 32 (3):230-244.
-
-Schuurman, Nadine. 2009. “Work, life, and creativity among academic geographers.” *Progress in Human Geography* no. 33 (3):307-312.
 
 Schwendeman, Joseph R. 1936. “Human Geography for the Senior High School.” *Journal of Geography* no. 35:111-117.
 
