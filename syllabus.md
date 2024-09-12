@@ -162,22 +162,21 @@ UK Police will communicate additional information through the UK Alert system du
 
 | Week | Thursday |
 | :------- | :--------------:        |
-| 1:<br>Aug. 22 | CLASS WILL NOT MEET |
-| 2:<br>Aug. 29 |  |
-| 3:<br>Sep. 5 | Course introductions, syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
-| 4:<br>Sep. 12 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
-| 5:<br>Sep. 19 | Read Roberts 2000<br><br>Lesson planning and visual materials<br>*Activity:* Draft a Lesson Plan |
-| 6:<br>Sep. 26 | Read Fritzsche 2022<br><br>Inclusive learning environments |
-| 7:<br>Oct. 3 | Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
-| 8:<br>Oct. 10 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
-| 9:<br>Oct. 17 | Read Dowling 2008<br><br>Shifts in higher education<br>Neoliberalism and the university |
-| 10:<br>Oct. 24 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
-| 11:<br>Oct. 31 | Read Curran & Roberts 2001<br><br>Style and performance<br>*Activity:* Practice Lesson Plan Delivery |
-| 12:<br>Nov. 7 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a Teaching Philosophy<br><br>**Turn in Report 2** |
-| 13:<br>Nov. 14 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
-| 14:<br>Nov. 21 | CLASS WILL NOT MEET<br><br>Revise Teaching Philosophies |
-| 15:<br>Nov. 28 | NO CLASS<br><br>Thanksgiving Holiday |
-| 16:<br>Dec. 5 | Practicum Wrap-up<br><br>**Teaching Philosophy Due by 5pm on Canvas** |
+| 1:<br>Aug. 29 | CLASS WILL NOT MEET |
+| 2:<br>Sep. 5 | Course introductions, syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
+| 3:<br>Sep. 12 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 4:<br>Sep. 19 | Read Roberts 2000<br><br>Lesson planning and visual materials<br>*Activity:* Draft a Lesson Plan |
+| 5:<br>Sep. 26 | Read Fritzsche 2022<br><br>Inclusive learning environments |
+| 6:<br>Oct. 3 | Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
+| 7:<br>Oct. 10 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
+| 8:<br>Oct. 17 | Read Dowling 2008<br><br>Shifts in higher education<br>Neoliberalism and the university |
+| 9:<br>Oct. 24 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 10:<br>Oct. 31 | Read Curran & Roberts 2001<br><br>Style and performance<br>*Activity:* Practice Lesson Plan Delivery |
+| 11:<br>Nov. 7 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a Teaching Philosophy<br><br>**Turn in Report 2** |
+| 12:<br>Nov. 14 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
+| 13:<br>Nov. 21 | CLASS WILL NOT MEET<br><br>Revise Teaching Philosophies |
+| 14:<br>Nov. 28 | NO CLASS<br><br>Thanksgiving Holiday |
+| 15:<br>Dec. 5 | Practicum Wrap-up<br><br>**Teaching Philosophy Due by 5pm on Canvas** |
 
 ## IX. References
 
