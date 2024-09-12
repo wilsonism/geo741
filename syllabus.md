@@ -163,10 +163,10 @@ UK Police will communicate additional information through the UK Alert system du
 | Week | Thursday |
 | :------- | :--------------:        |
 | 1:<br>Aug. 22 | CLASS WILL NOT MEET |
-| 2:<br>Aug. 29 | Course introductions, syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
-| 3:<br>Sep. 5 | Read Roberts 2000<br><br>Lesson planning<br>*Activity:* Draft a Lesson Plan |
+| 2:<br>Aug. 29 |  |
+| 3:<br>Sep. 5 | Course introductions, syllabus<br>Course policies<br>*Activity:* Compare and Evaluate Syllabi |
 | 4:<br>Sep. 12 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
-| 5:<br>Sep. 19 | Read Tufte 2003<br><br>Visual materials<br>PowerPoints and Prezi’s<br>*Activity:* Draft a Slide Sequence |
+| 5:<br>Sep. 19 | Read Roberts 2000<br><br>Lesson planning and visual materials<br>*Activity:* Draft a Lesson Plan |
 | 6:<br>Sep. 26 | Read Fritzsche 2022<br><br>Inclusive learning environments |
 | 7:<br>Oct. 3 | Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
 | 8:<br>Oct. 10 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
