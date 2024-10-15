@@ -169,8 +169,8 @@ UK Police will communicate additional information through the UK Alert system du
 | 5:<br>Sep. 26 | Read Fritzsche 2022<br><br>Inclusive learning environments |
 | 6:<br>Oct. 3 | Examinations<br>Reviews and managing expectations<br>*Activity:* Draft Exam Questions<br><br>**Turn in Report 1** |
 | 7:<br>Oct. 10 | Read Elwood & Wilson 2017<br><br>Classroom technologies and participation<br>Social networks and back-channeling<br>*Activity:* Draft a Technology Policy/Plan |
-| 8:<br>Oct. 17 | Read Dowling 2008<br><br>Shifts in higher education<br>Neoliberalism and the university |
-| 9:<br>Oct. 24 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 8:<br>Oct. 17 | CLASS WILL NOT MEET<br><br>Schedule/complete course observations. |
+| 9:<br>Oct. 24 | Read Dowling 2008<br><br>Shifts in higher education<br>Neoliberalism and the university |
 | 10:<br>Oct. 31 | Read Curran & Roberts 2001<br><br>Style and performance<br>*Activity:* Practice Lesson Plan Delivery |
 | 11:<br>Nov. 7 | Read Kaserman & Wilson 2009<br><br>Required readings<br>Reading groups and discussions<br>*Activity:* Draft a Teaching Philosophy<br><br>**Turn in Report 2** |
 | 12:<br>Nov. 14 | Read Schwedeman 1936<br><br>Teaching philosophies<br>*Activity:* Evaluate Teaching Philosophies |
